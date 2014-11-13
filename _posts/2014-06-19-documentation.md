@@ -22,7 +22,7 @@ General notes and suggestions for customizing **HMFAYSAL Notepad Theme**.
 ## Basic Setup for a new Jekyll site
 
 1. [Install Jekyll](http://jekyllrb.com) and read through [this installation instructions]({{ site.url }}/theme-setup/installing-jekyll-on-windows/) if you haven't already.
-2. Fork the [HMFAYSAL Notepad Theme repo](https://github.com/hmfaysal/hmfaysal-omega-theme/fork)
+2. Fork the [HMFAYSAL Notepad Theme repo](https://github.com/hmfaysal/Notepad/fork)
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
 5. Check out the sample posts in `_posts` to see examples, assigning categories and tags, and other YAML data.
@@ -30,7 +30,7 @@ General notes and suggestions for customizing **HMFAYSAL Notepad Theme**.
 <br>
 <br>
 
-<div class="span7 text-center" markdown="0"><a href="https://github.com/hmfaysal/hmfaysal-omega-theme/archive/master.zip" class="btn btn-success btn-large"><i class="icon-download-alt"></i> Download the Theme</a></div>  
+<div class="span7 text-center" markdown="0"><a href="https://github.com/hmfaysal/Notepad/archive/master.zip" class="btn btn-success btn-large"><i class="icon-download-alt"></i> Download the Theme</a></div>  
 <br>
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site.
@@ -314,7 +314,7 @@ ErrorDocument 404 /404.html
 
 ## Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
+Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/Notepad/issues/new).
 
 ---
 
